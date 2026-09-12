@@ -102,7 +102,7 @@ The following YOLO architectures were trained from scratch without pretrained we
 
 ---
 
-# YOLOv11 Fine-Tuning
+# YOLOv11n
 
 YOLOv11n was evaluated under different training conditions to investigate the effect of augmentation and fine-tuning.
 
